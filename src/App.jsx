@@ -3,7 +3,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function App() {
-    const GEMINI_API_KEY = "AIzaSyAutn-hJGyipVhykoBMs9bOw-pLdqgsTaE";
+    const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
     const [isRecording, setIsRecording] = useState(false);
     const [isLoading, setIsLoading] = useState(false);
     const [auntyIsSpeaking, setAuntyIsSpeaking] = useState(false);
