@@ -35,8 +35,8 @@ npm run dev
 For Software:
 
 # Screenshots 
-<img width="1919" height="949" alt="image" src="front-end/Screen shot -1 .png" />
-<img width="1919" height="949" alt="image" src="front-end/Screen shot -2 .png" />
+<img width="1919" height="949" alt="image" src="Screen shot -1 .png" />
+<img width="1919" height="949" alt="image" src="Screen shot -2 .png" />
 
 
 # Diagrams
